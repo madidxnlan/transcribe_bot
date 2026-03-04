@@ -1,6 +1,3 @@
-How to run: cd "/Volumes/Crucial X10/podbud/transcribe_bot"
-python3 video_transcriber.py "Episode17.mp4" --speakers "Rob,Ryan,Anna,Alayna"
-
 
 # Video Transcription Bot for Podcast Editing
 
